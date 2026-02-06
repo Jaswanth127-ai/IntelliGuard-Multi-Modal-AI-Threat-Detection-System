@@ -1,0 +1,25 @@
+# Core
+numpy
+opencv-python
+
+# MediaPipe (STRICT versions – do not change)
+mediapipe==0.10.9
+protobuf==3.20.3
+
+# Deep Learning
+tensorflow
+tensorflow-hub
+keras
+
+# Object Detection (YOLO)
+ultralytics
+torch
+torchvision
+
+# Audio alarm
+pygame
+
+# Utilities
+
+matplotlib
+scikit-learn

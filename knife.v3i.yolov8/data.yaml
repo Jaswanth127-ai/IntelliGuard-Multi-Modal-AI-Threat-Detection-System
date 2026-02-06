@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Knife Detection - v1 2026-01-26 6-05pm']
+
+roboflow:
+  workspace: jaswanth-e6wkp
+  project: knife-kyihy-wu9hk
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jaswanth-e6wkp/knife-kyihy-wu9hk/dataset/3

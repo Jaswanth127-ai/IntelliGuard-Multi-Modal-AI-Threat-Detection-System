@@ -1,0 +1,25 @@
+# Virtual environments
+fr_venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ML models (optional large files)
+*.pt
+*.h5
+*.onnx
+*.ckpt
